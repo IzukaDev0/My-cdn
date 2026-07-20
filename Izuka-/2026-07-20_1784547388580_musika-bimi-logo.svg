@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" width="200" height="200" viewBox="0 0 200 200">
+  <title>Musika</title>
+  <desc>Musika Music Player Logo</desc>
+  <circle cx="100" cy="100" r="95" fill="#0d2818" stroke="#1DB954" stroke-width="2"/>
+  <g transform="translate(100,88)">
+    <ellipse cx="-6" cy="16" rx="7" ry="5.5" fill="#1DB954" transform="rotate(-20,-6,16)"/>
+    <rect x="-4.5" y="-20" width="2" height="37" rx="1" fill="#1DB954"/>
+    <path d="M-3,-20 C6,-18 14,-12 12,-6 C11,-9 8,-12 2,-13 C-1,-14 -3,-17 -3,-20Z" fill="#1DB954"/>
+  </g>
+  <path d="M70,106 C65,96 65,86 70,76" stroke="#1DB954" stroke-width="2" fill="none"/>
+  <path d="M64,114 C56,96 56,78 64,60" stroke="#1DB954" stroke-width="1.5" fill="none"/>
+  <path d="M130,106 C135,96 135,86 130,76" stroke="#1DB954" stroke-width="2" fill="none"/>
+  <path d="M136,114 C144,96 144,78 136,60" stroke="#1DB954" stroke-width="1.5" fill="none"/>
+  <polygon points="120,94 120,106 132,100" fill="#1DB954"/>
+</svg>
